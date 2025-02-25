@@ -135,7 +135,7 @@ python3 main.py
 
 ### Contributing Author 🧑‍💻
 - **Name:** Abir Arafat Chawdhury
-- **Telegram:** [@itsSmartDev](https://t.me/abir_x_official)
+- **Telegram:** [@Modvip_rm](https://t.me/abir_x_official)
 ---
 
 For inquiries or feedback, please feel free to reach out via Telegram.
